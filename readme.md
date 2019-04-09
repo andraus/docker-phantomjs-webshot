@@ -1,0 +1,1 @@
+Docker with node10 + phantomjs + webshot + custom screenshot script
